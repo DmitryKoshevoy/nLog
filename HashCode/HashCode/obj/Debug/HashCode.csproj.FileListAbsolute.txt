@@ -1,0 +1,6 @@
+D:\Dmitry\Samples C#\HashCode\HashCode\bin\Debug\HashCode.exe.config
+D:\Dmitry\Samples C#\HashCode\HashCode\bin\Debug\HashCode.exe
+D:\Dmitry\Samples C#\HashCode\HashCode\bin\Debug\HashCode.pdb
+D:\Dmitry\Samples C#\HashCode\HashCode\obj\Debug\HashCode.csprojResolveAssemblyReference.cache
+D:\Dmitry\Samples C#\HashCode\HashCode\obj\Debug\HashCode.exe
+D:\Dmitry\Samples C#\HashCode\HashCode\obj\Debug\HashCode.pdb
