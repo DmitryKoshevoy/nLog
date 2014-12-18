@@ -1,0 +1,9 @@
+D:\Dmitry\Samples C#\nLog\nLog\bin\Debug\nLog.exe.config
+D:\Dmitry\Samples C#\nLog\nLog\bin\Debug\NLog.config
+D:\Dmitry\Samples C#\nLog\nLog\bin\Debug\nLog.exe
+D:\Dmitry\Samples C#\nLog\nLog\bin\Debug\nLog.pdb
+D:\Dmitry\Samples C#\nLog\nLog\bin\Debug\NLog.dll
+D:\Dmitry\Samples C#\nLog\nLog\bin\Debug\NLog.xml
+D:\Dmitry\Samples C#\nLog\nLog\obj\Debug\nLog.csprojResolveAssemblyReference.cache
+D:\Dmitry\Samples C#\nLog\nLog\obj\Debug\nLog.exe
+D:\Dmitry\Samples C#\nLog\nLog\obj\Debug\nLog.pdb
